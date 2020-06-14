@@ -6,8 +6,6 @@ no one ever read readme
 
 we are on the develop branch
 
-<<<<<<< HEAD
 adding a new feature
-=======
 hello everyone
->>>>>>> feature/new-feature
+adding something interesting
